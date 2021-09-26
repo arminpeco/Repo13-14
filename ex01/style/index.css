@@ -20,13 +20,10 @@ img{
    
 }
 div{
-    width: 22%;
+    width: 23%;
 
 }
-h2{
-   text-align: center;
-   color: red;
-}
+
 p{
     padding-left: 30px;
     padding-right: 30px;
@@ -55,7 +52,9 @@ h4{
   #modal-content {
     margin: 10px auto;
     width: 300px; 
-    height: 300px; 
+    height: 500px; 
   }
 
- 
+ h1{
+     text-align: center;
+ }
